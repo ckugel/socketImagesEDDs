@@ -1,0 +1,3 @@
+/mnt/HDD/coding/socketImages/cmake-build-debug/CMakeFiles/socketImages.dir
+/mnt/HDD/coding/socketImages/cmake-build-debug/CMakeFiles/edit_cache.dir
+/mnt/HDD/coding/socketImages/cmake-build-debug/CMakeFiles/rebuild_cache.dir
