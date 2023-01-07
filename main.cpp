@@ -16,6 +16,7 @@ void handShake(char* buffer) {
     new_socket = accept(server_fd, (struct sockaddr*) &address,(socklen_t*) &addrlen);
 
     valread = read(new_socket, buffer, 1024);
+    
     printf("%s\n", buffer);
     // closing the connected socket
     close(new_socket);
